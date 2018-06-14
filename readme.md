@@ -7,8 +7,11 @@
 
 > 打包采用gulp跟webpack
 
-打包：`gulp build`
-监听：`gulp reload`
+> webpack 打包dll：`npm run dll`
+
+> 安装依赖
+* 打包：`gulp build`
+* 监听：`gulp reload`
 
     实时刷新页面，并且所有终端同步刷新，监听事件
 ---
