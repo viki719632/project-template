@@ -6,12 +6,9 @@
 
 
 > 打包采用gulp跟webpack
-需同时启动`两个`命令行
 
-```
-gulp reload 
-npx webpack --watch
-```
+打包：`gulp build`
+监听：`gulp reload`
 
     实时刷新页面，并且所有终端同步刷新，监听事件
 ---
